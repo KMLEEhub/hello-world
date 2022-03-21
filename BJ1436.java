@@ -27,6 +27,7 @@ public class BJ1436 {
                 break;
             }
             answer++;
+            //수정수정 test
         }
     }
 }
